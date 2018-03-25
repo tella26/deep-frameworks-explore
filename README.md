@@ -29,7 +29,7 @@
 3. Merge the changes into your forked repo<br>
     `git merge upstream/master`
 4. Add your folder or Changes. For Example, <br>
-    `git add pytorch-exploration-wakanda`
+    `git add teamPyTorch`
 5. Commit your changes <br>
     `git commit -m 'Classify two different black panther characters - shuri & okoye'`
 6. Push your changes <br>
